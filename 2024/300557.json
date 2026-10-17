@@ -1,0 +1,67 @@
+{
+ "code": "300557",
+ "name": "理工光科",
+ "board": null,
+ "status": null,
+ "status_date": "2024-04-17",
+ "plan_date": null,
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": null,
+ "transferees": null,
+ "change_type": null,
+ "structure": null,
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": null,
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "reps_warranties": null,
+ "transition": null,
+ "tax": null,
+ "completeness": "未披露协议条款",
+ "notes": "本公告仅涉及控股股东由武汉光谷烽火科技创业投资有限公司更名为武汉中信科资本创业投资基金管理有限公司并完成工商变更登记，不涉及持股变动，不构成控制权变更交易；实控人未变更。公告未披露实际控制人名称，不虚设转让方或受让方，transferors、transferees及交易相关字段填null。status_date仅为本次更名公告落款日期，非股份过户完成日期；status填null。公告未披露所属板块，board填null。",
+ "evidence": {
+  "code": {
+   "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+   "quote": "证券代码：300557"
+  },
+  "name": {
+   "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+   "quote": "证券简称：理工光科"
+  },
+  "status_date": {
+   "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+   "quote": "2024 年 4 月 17 日"
+  },
+  "completeness": {
+   "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+   "quote": "关于控股股东变更名称并完成工商变更登记的公告"
+  },
+  "notes": [
+   {
+    "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+    "quote": "其名称由“武汉光谷烽火科技创业投资\n有限公司”变更为“武汉中信科资本创业投资基金管理有限公司”"
+   },
+   {
+    "file": "2024-04-17_理工光科：关于控股股东变更名称并完成工商变更登记的公告_1219645851..txt",
+    "quote": "上述工商变更事项不涉及控股股东的持股变动，对公司治理及经营活动不构\n成影响，公司控股股东及实际控制人未发生变化。"
+   }
+  ]
+ },
+ "chain": [
+  {
+   "date": "2024-04-17",
+   "title": "理工光科：关于控股股东变更名称并完成工商变更登记的公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2024-04-17/1219645851.PDF"
+  }
+ ]
+}

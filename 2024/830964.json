@@ -1,0 +1,75 @@
+{
+  "code": "830964",
+  "name": "润农节水",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：目录仅有两份txt，均非目标830964润农节水公告。2024-12-06文件正文为证券代码000826、证券简称启迪环境的控股股东股份司法拍卖及控制权或将变更进展公告，落款二〇二四年十二月四日；2024-12-23文件正文为证券代码600216、证券简称浙江医药的控股股东股权结构变更完成工商变更登记暨实际控制人变更公告，落款2024年12月23日。两份公告主体不同，不构成润农节水交易的前后进展；不得将其中股数、比例、价款、交易主体或控制权变更结论归入目标交易。依仅从该目录txt提取事实的规则，目标交易字段均填null（含code、name、board，正文无法提供目标对应证据）。无法核实本交易是否导致实际控制人变更，需补充润农节水正确公告正文。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2024-12-06_[临时公告]润农节水_关于公司控制权拟发生变更和权益变动的进展公告_1221920262..txt",
+        "quote": "证券代码：000826          证券简称：启迪环境"
+      },
+      {
+        "file": "2024-12-06_[临时公告]润农节水_关于公司控制权拟发生变更和权益变动的进展公告_1221920262..txt",
+        "quote": "启迪环境科技发展股份有限公司"
+      },
+      {
+        "file": "2024-12-06_[临时公告]润农节水_关于公司控制权拟发生变更和权益变动的进展公告_1221920262..txt",
+        "quote": "二〇二四年十二月四日"
+      },
+      {
+        "file": "2024-12-23_[临时公告]润农节水_控股股东、实际控制人变更公告_600216_20241223_MDJF.txt",
+        "quote": "证券代码：600216    证券简称：浙江医药"
+      },
+      {
+        "file": "2024-12-23_[临时公告]润农节水_控股股东、实际控制人变更公告_600216_20241223_MDJF.txt",
+        "quote": "浙江医药股份有限公司"
+      },
+      {
+        "file": "2024-12-23_[临时公告]润农节水_控股股东、实际控制人变更公告_600216_20241223_MDJF.txt",
+        "quote": "2024 年 12 月 23 日"
+      }
+    ]
+  },
+  "chain": [
+    {
+      "date": "2024-12-06",
+      "title": "[临时公告]润农节水:关于公司控制权拟发生变更和权益变动的进展公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-12-04/1221920262.PDF"
+    },
+    {
+      "date": "2024-12-23",
+      "title": "[临时公告]润农节水:控股股东、实际控制人变更公告",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-12-23/600216_20241223_MDJF.pdf"
+    }
+  ],
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

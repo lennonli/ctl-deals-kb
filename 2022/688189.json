@@ -1,0 +1,47 @@
+{
+  "code": "688189",
+  "name": "ST南新",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：目标为688189 ST南新（科创板），但目录内仅有两份txt，正文分别为300105龙源技术的控股股东更名公告及000722湖南发展的国有股权无偿划转公告。两份正文均未披露目标公司交易事实，不能将其他公司的交易、日期或实控人情况用于本目标。按仅从本目录txt提取事实的规则，目标公司身份字段及全部交易字段均填null；文件名与任务指定信息仅用于定位，不充当目标公司的事实证据。无法核实ST南新本次交易是否导致实际控制人变更。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2022-08-29_ST南新：关于控股股东筹划战略重组暨控股股东可能发生变更的提示性公告_1214441699..txt",
+        "quote": "证券代码：300105 证券简称：龙源技术 公告编号：临 2022-047"
+      },
+      {
+        "file": "2022-09-05_ST南新：关于国有股权无偿划转暨控股股东发生变更的提示性公告_1214532482..txt",
+        "quote": "证券代码：000722     证券简称：湖南发展      公告编号：2022-064"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

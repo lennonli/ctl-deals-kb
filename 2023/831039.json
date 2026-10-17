@@ -1,0 +1,47 @@
+{
+  "code": "831039",
+  "name": "国义招标",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：任务目标为831039国义招标，但本目录仅有的两份txt正文分别为山东玻纤（605006）和中信银行（601998）的国有股份无偿划转完成过户登记公告，均不属于目标公司。文件名中的国义招标及日期与正文主体、落款存在错配，不能作为目标交易事实依据。无法核实国义招标的交易状态、转让双方及实际控制人是否变更等字段，全部置null；code、name、board亦因正文无目标公司证据置null。输出文件名831039.json仅作为任务定位标识。不得将两份异主体公告的交易数据合并或套用于国义招标。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2023-02-15_[临时公告]国义招标_国义招标股份有限公司关于控股股东国有股权无偿划转暨控股股东变更的提示性公告_605006_20230211_EN5Q.txt",
+        "quote": "证券代码：605006        证券简称：山东玻纤"
+      },
+      {
+        "file": "2023-05-24_[临时公告]国义招标_关于控股股东国有股权无偿划转完成过户登记暨控股股东变更的公告_601998_20230429_X9ON.txt",
+        "quote": "证券代码：601998          证券简称：中信银行"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

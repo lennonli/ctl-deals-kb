@@ -1,0 +1,47 @@
+{
+  "code": "688202",
+  "name": "美迪西",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": [],
+  "transferees": [],
+  "change_type": null,
+  "structure": [],
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": [],
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": "未披露协议条款",
+  "notes": "资料文件张冠李戴，无法抽取：目录02_协议文本_2022/688202_美迪西/内两份txt的实际正文均与美迪西无关——①2022-11-23文件正文实为《江苏通润装备科技股份有限公司（002150）关于控股股东及一致行动人协议转让公司股份暨控制权拟发生变更的提示性公告》（证券代码：002150）；②2022-12-09文件正文实为《江阴江化微电子材料股份有限公司（603078）关于实际控制人发生变更的公告》（证券代码：603078，落款2022-12-01）。两份txt全文检索'美迪西'/'688202'零命中；全语料库02_协议文本_2022/各目录亦无含美迪西正文的txt。根因疑为batch_plan_2022.json中本单chain的URL错误：第二条URL为static.sse.com.cn的603078_20221201_5COA.pdf（江化微文件），第一条cninfo链接1215176876.PDF下载到的实为通润装备公告。code/name/board取自batch_plan_2022.json任务标识而非txt原文，故未附evidence；其余交易字段因无有效美迪西公告文本一律填null，未做任何编造。建议按正确公告（美迪西实控人变更核查意见/法律意见书，约2022-11至2022-12）重新下载后再抽取。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2022-11-23_美迪西：广发证券股份有限公司关于上海美迪西生物医药股份有限公司实际控制人变更承诺的核查意见_1215176876..txt",
+        "quote": "证券代码：002150     证券简称：通润装备        公告编号：2022-035"
+      },
+      {
+        "file": "2022-12-09_美迪西：北京金诚同达（上海）律师事务所关于上海美迪西生物医药股份有限公司实际控制人变更的法律意见书_603078_20221201_5COA.txt",
+        "quote": "证券代码：603078       证券简称：江化微                 公告编号：2022-081"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

@@ -1,0 +1,41 @@
+{
+  "code": "688021",
+  "name": "奥福科技",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "源文件错配：目标为688021奥福科技，但指定目录唯一txt的正文为002817黄山胶囊《关于股东股份转让完成过户登记暨控股股东、实际控制人变更的公告》，落款为2022年11月2日。该正文不能证明目标公司的交易事实，故所有目标字段（包括code、name、board）均填null；输出文件名仅沿用任务目标。无法核实奥福科技是否发生实际控制人变更，亦无法确定其交易状态、交易结构或协议披露完整性。需补充正确的奥福科技公告文本后重新抽取。",
+  "evidence": {
+    "notes": {
+      "file": "2022-11-05_奥福科技：关于山东奥福环保科技股份有限公司相关股东一致行动协议到期及实际控制人变更的法律意见书_1215012347..txt",
+      "quote": "证券代码：002817        证券简称：黄山胶囊   公告编号：2022-043"
+    }
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

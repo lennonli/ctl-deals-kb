@@ -1,0 +1,54 @@
+{
+ "code": "688550",
+ "name": "瑞联新材",
+ "board": "科创板",
+ "status": null,
+ "status_date": null,
+ "plan_date": null,
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": null,
+ "transferees": null,
+ "change_type": null,
+ "structure": null,
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": null,
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "completeness": null,
+ "notes": "资料错配，无法抽取：指定目录两份TXT正文均非瑞联新材（688550）公告。第一份（文件名标注为瑞联新材法律意见书）正文是江南高纤（600527）控股股东陶国平向陶冶转让246,792,006股的提示性公告；第二份（文件名标注为海通证券核查意见）正文是建霖家居（603408）共同控制确认书到期暨实控人变更为吕理镇、文国良家族的提示性公告。两条chain记录的公告标题虽写\"瑞联新材\"，但其PDF URL内嵌代码即600527/603408，系上游元数据（见微条目）把瑞联新材标题挂接到了别家公司PDF，属采集源头缺陷。按红线规则1不将他司事实填入本记录：除任务派发赋予的code/name/board（标识字段，非自txt抽取，故无evidence）外全部字段置null。已在02_协议文本_2023/全目录grep\"瑞联\"，零命中，确认包内无可用正文。处置建议：按标题重新采集瑞联新材真实公告（法律意见书2023-07-22、核查意见2023-08-03）后重跑本单。",
+ "notes_evidence": [
+  {
+   "file": "2023-07-22_瑞联新材：关于西安瑞联新材料股份有限公司相关股东一致行动协议到期及实际控制人变更的法律意见书_600527_20230722_0BBJ.txt",
+   "quote": "证券代码：600527            证券简称：江南高纤                 公告编号：2023-020"
+  },
+  {
+   "file": "2023-08-03_瑞联新材：海通证券股份有限公司关于西安瑞联新材料股份有限公司相关股东一致行动协议到期及实际控制人变更的核查意见_603408_20230801_3LJB.txt",
+   "quote": "证券代码：603408   证券简称：建霖家居   公告编号：2023-040"
+  }
+ ],
+ "chain": [
+  {
+   "date": "2023-07-22",
+   "title": "瑞联新材：关于西安瑞联新材料股份有限公司相关股东一致行动协议到期及实际控制人变更的法律意见书",
+   "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-07-22/600527_20230722_0BBJ.pdf"
+  },
+  {
+   "date": "2023-08-03",
+   "title": "瑞联新材：海通证券股份有限公司关于西安瑞联新材料股份有限公司相关股东一致行动协议到期及实际控制人变更的核查意见",
+   "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-08-01/603408_20230801_3LJB.pdf"
+  }
+ ],
+ "reps_warranties": null,
+ "transition": null,
+ "tax": null
+}

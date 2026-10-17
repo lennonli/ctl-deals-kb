@@ -1,0 +1,107 @@
+{
+  "code": "002510",
+  "name": "天汽模",
+  "board": "深主板",
+  "status": "进行中",
+  "status_date": "2023-12-04",
+  "status_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "鉴于该事项正在洽谈中，目前尚存在重大不确定性"
+  },
+  "plan_date": "2023-12-04",
+  "plan_date_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "关于筹划控制权变更的停牌公告"
+  },
+  "sign_date": null,
+  "first_announce_date": "2023-12-04",
+  "first_announce_date_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "关于筹划控制权变更的停牌公告"
+  },
+  "transferors": [
+    {
+      "name": "控股股东、实际控制人及其一致行动人",
+      "type": "其他",
+      "pre_pct": null,
+      "evidence": {
+        "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+        "quote": "收到公司控股股东、实际控制人及其一致行动人（以下简称“控股股东”）的通知"
+      }
+    }
+  ],
+  "transferees": [
+    {
+      "name": "国有出资的有限合伙企业（未具名）",
+      "type": "其他",
+      "final_controller": null,
+      "gets": "拟受让161,779,192股，预计占公司总股本17.18%",
+      "evidence": {
+        "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+        "quote": "本次交易对手方为国有出资的有限合伙企业，该交易可能涉及公司控制权的变更"
+      }
+    }
+  ],
+  "change_type": "直接协议转让",
+  "change_type_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "控股股东正在筹划控制权转让事宜，拟转让的股份数量共计161,779,192股"
+  },
+  "structure": [
+    "协议转让"
+  ],
+  "structure_evidence": [
+    {
+      "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+      "quote": "拟转让的股份数量共计161,779,192股，预计占公司总股本的17.18%"
+    }
+  ],
+  "shares": "161,779,192股",
+  "shares_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "拟转让的股份数量共计161,779,192股"
+  },
+  "pct": "17.18%",
+  "pct_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "预计占公司总股本的17.18%"
+  },
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": [
+    "国有资产监督管理等有权部门的审批"
+  ],
+  "conditions_evidence": [
+    {
+      "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+      "quote": "相关交易事项尚需国有资产监督管理等有权部门的审批"
+    }
+  ],
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": "未披露协议条款",
+  "completeness_evidence": {
+    "file": "2023-12-04_天汽模：关于筹划控制权变更的停牌公告_1218496779..txt",
+    "quote": "关于筹划控制权变更的停牌公告"
+  },
+  "notes": "资料目录内仅有2023-12-04停牌公告（公告编号2023-057）一份文件：公司于2023-12-01收到控股股东、实际控制人及其一致行动人的通知，正在筹划控制权转让；交易对手方为国有出资的有限合伙企业但未具名；公告称'该交易可能涉及公司控制权的变更'，实际控制人是否变更尚不确定，transferees[].final_controller 暂填 null。公司股票（002510）及可转债'汽模转2'（128090）自2023-12-04开市起停牌，预计不超过2个交易日。转让方/受让方具体名称、转让前持股比例、转让价格与对价均未披露；change_type 按筹划公告所述'拟转让股份'取'直接协议转让'。转让方与受让方类型均因公告未明示而暂填'其他'。",
+  "chain": [
+    {
+      "date": "2023-12-04",
+      "title": "天汽模：关于筹划控制权变更的停牌公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2023-12-04/1218496779.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

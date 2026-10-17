@@ -1,0 +1,46 @@
+{
+  "code": "688526",
+  "name": "科前生物",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：指定目录唯一TXT的正文为000936华西股份《关于实际控制人变更完成的公告》，落款为2023年9月22日，并非目标公司的法律意见书。无法据此核实目标交易及实际控制人是否变更；包括证券身份、交易状态、交易结构及协议披露完整性在内的目标字段均置null，不将其他公司的事实填入目标记录。文件名及任务标签未作为公告正文证据。",
+  "notes_evidence": {
+    "file": "2023-10-10_科前生物：北京市嘉源律师事务所关于武汉科前生物股份有限公司实际控制人变更事项问询函回复的法律意见书_1217926666..txt",
+    "quote": "证券代码：000936      证券简称：华西股份      公告编号：2023-040"
+  },
+  "chain": [
+    {
+      "date": "2023-10-10",
+      "title": "科前生物：北京市嘉源律师事务所关于武汉科前生物股份有限公司实际控制人变更事项问询函回复的法律意见书",
+      "url": "https://static.cninfo.com.cn/finalpage/2023-09-23/1217926666.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

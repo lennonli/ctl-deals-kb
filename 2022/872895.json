@@ -1,0 +1,55 @@
+{
+  "code": "872895",
+  "name": "花溪科技",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": [],
+  "transferees": [],
+  "change_type": null,
+  "structure": [],
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": [],
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "目标任务为872895花溪科技，输出文件名沿用任务标识；但本目录仅有的三份txt文件名与正文主体均错配。2022-10-17文件正文为国立科技（300716）控股股东股权结构变更；2022-11-18文件正文为锦浪科技（300763）控股股东之一致行动人工商信息变更；2022-08-19文件正文为世纪鼎利（300050）控股股东上层股权结构变更及实际控制人变更。三份正文属于不同公司，不能作为同一交易的新旧公告合并。目录内无可用于确认花溪科技证券代码、简称、板块及交易事实的正文证据，因此包括身份、状态、日期、实控人是否变更、协议披露完整度在内的标量字段均填null，主体、结构及条件数组留空；未将其他公司交易事实移植至目标。需补充正文与目标公司一致的公告后再提取。",
+  "evidence": {
+    "transferors": [],
+    "transferees": [],
+    "structure": [],
+    "conditions": [],
+    "notes": [
+      {
+        "file": "2022-10-17_[临时公告]花溪科技_第一大股东、控股股东、实际控制人、一致行动人变更公告_1214816671..txt",
+        "quote": "证券代码：300716      证券简称：国立科技"
+      },
+      {
+        "file": "2022-11-18_[临时公告]花溪科技_第一大股东、控股股东、实际控制人、一致行动人变更公告_1215149794..txt",
+        "quote": "证券代码：300763            证券简称：锦浪科技"
+      },
+      {
+        "file": "2022-08-19_[临时公告]花溪科技_关于控股股东、实际控制人、董事长去世暨实际控制人、控股股东拟发生变更的提示性公告_1214329942..txt",
+        "quote": "证券代码：300050        证券简称：世纪鼎利"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

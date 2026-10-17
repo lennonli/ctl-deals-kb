@@ -1,0 +1,82 @@
+{
+ "code": "688567",
+ "name": "孚能科技",
+ "board": "科创板",
+ "status": null,
+ "status_date": null,
+ "plan_date": null,
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": null,
+ "transferees": null,
+ "change_type": null,
+ "structure": null,
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": null,
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "completeness": null,
+ "notes": "资料错配，无法抽取：指定目录三份TXT正文均非目标公司孚能科技（688567）公告。第一份（文件名标注为2023-07-28继续停牌公告）正文实际是江苏国泰（002091）2023-07-21筹划无偿划转提示性公告；第二份（文件名标注为2023-08-02复牌公告）正文实际是华脉科技（603042）2023-08控制权变更二次问询函回复公告；第三份（文件名标注为2023-11-30合作协议公告）正文实际是*ST园城（600766）2023-11-28延期回复问询函公告。三条chain记录的公告标题虽写“孚能科技”，但PDF URL内嵌ID与代码即002091/603042/600766对应文件，系上游parse_stage1正则表达式对科创板ID前缀（kcb-）跨条目吞噬错配所致，属数据源采集缺陷。按红线规则1不将他司事实填入本记录：除任务指派赋予的code/name/board（标识字段，非自txt抽取，故无evidence）外全部字段置null。已在02_协议文本_2023/全目录检索，确认包内无可用正文。处置建议：按标题重新采集孚能科技真实公告后重跑本单。",
+ "notes_evidence": [
+  {
+   "file": "2023-07-28_孚能科技：孚能科技关于筹划控制权变更进展暨继续停牌公告_1217351126..txt",
+   "quote": "证券代码：002091      证券简称：江苏国泰            公告编号：2023-46"
+  },
+  {
+   "file": "2023-08-02_孚能科技：孚能科技关于筹划控制权变更的进展暨复牌公告_603042_20230801_R31N.txt",
+   "quote": "证券代码：603042     证券简称：华脉科技     公告编号：2023-074"
+  },
+  {
+   "file": "2023-11-30_孚能科技：孚能科技关于控制权变更进展暨控股股东、实际控制人签订《合作协议》的公告_600766_20231128_WR8J.txt",
+   "quote": "证券代码：600766    证券简称：*ST 园城   公告编号：2023-089"
+  }
+ ],
+ "evidence": {
+  "notes": [
+   {
+    "file": "2023-07-28_孚能科技：孚能科技关于筹划控制权变更进展暨继续停牌公告_1217351126..txt",
+    "quote": "证券代码：002091      证券简称：江苏国泰            公告编号：2023-46"
+   },
+   {
+    "file": "2023-08-02_孚能科技：孚能科技关于筹划控制权变更的进展暨复牌公告_603042_20230801_R31N.txt",
+    "quote": "证券代码：603042     证券简称：华脉科技     公告编号：2023-074"
+   },
+   {
+    "file": "2023-11-30_孚能科技：孚能科技关于控制权变更进展暨控股股东、实际控制人签订《合作协议》的公告_600766_20231128_WR8J.txt",
+    "quote": "证券代码：600766    证券简称：*ST 园城   公告编号：2023-089"
+   }
+  ]
+ },
+ "chain": [
+  {
+   "date": "2023-07-28",
+   "title": "孚能科技：孚能科技关于筹划控制权变更进展暨继续停牌公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2023-07-21/1217351126.PDF"
+  },
+  {
+   "date": "2023-08-02",
+   "title": "孚能科技：孚能科技关于筹划控制权变更的进展暨复牌公告",
+   "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-08-01/603042_20230801_R31N.pdf"
+  },
+  {
+   "date": "2023-11-30",
+   "title": "孚能科技：孚能科技关于控制权变更进展暨控股股东、实际控制人签订《合作协议》的公告",
+   "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-11-28/600766_20231128_WR8J.pdf"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

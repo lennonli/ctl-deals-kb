@@ -1,0 +1,47 @@
+{
+  "code": "688519",
+  "name": "南亚新材",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：指定目录仅有一份txt，正文为证券代码300093、证券简称金刚玻璃的控股股东增持计划延期并变更增持计划公告，与任务目标688519南亚新材不符。文件名不作为目标交易的事实证据，未将金刚玻璃的交易事实用于目标公司。目标公司身份及全部交易字段均无可用正文证据，依规则填null；不能据此判断目标交易状态、协议披露完整性或实际控制人是否变更。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2022-02-09_南亚新材：南亚新材关于控股股东的股东股权结构变动暨完成工商变更登记的公告_1212326272..txt",
+        "quote": "证券代码：300093      证券简称：金刚玻璃           公告编号：2022-013"
+      },
+      {
+        "file": "2022-02-09_南亚新材：南亚新材关于控股股东的股东股权结构变动暨完成工商变更登记的公告_1212326272..txt",
+        "quote": "关于公司控股股东增持计划延期并变更增持计划的"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

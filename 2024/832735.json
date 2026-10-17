@@ -1,0 +1,58 @@
+{
+  "code": "832735",
+  "name": "德源药业",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：指定目录仅有一份txt，其正文证券代码为600056、证券简称为中国医药，标题为《关于重要参股公司筹划变更实际控制人事项的提示性公告》，落款为2024年2月6日。正文讨论重庆医药战略整合，无法据此核实目标832735德源药业的一致行动协议及实际控制人变更事项。依仅从目录内txt提取事实的规则，目标交易字段均填null；未将中国医药及其参股公司的事项归入德源药业。需补充正确的德源药业公告正文后再抽取。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2024-02-07_[临时公告]德源药业_关于原一致行动人协议到期终止、部分股东重新签署一致行动人协议暨实际控制人变更的公告_600056_20240206_O3XE.txt",
+        "quote": "证券代码：600056   证券简称：中国医药"
+      },
+      {
+        "file": "2024-02-07_[临时公告]德源药业_关于原一致行动人协议到期终止、部分股东重新签署一致行动人协议暨实际控制人变更的公告_600056_20240206_O3XE.txt",
+        "quote": "关于重要参股公司筹划变更实际控制人事项的\n                提示性公告"
+      },
+      {
+        "file": "2024-02-07_[临时公告]德源药业_关于原一致行动人协议到期终止、部分股东重新签署一致行动人协议暨实际控制人变更的公告_600056_20240206_O3XE.txt",
+        "quote": "2024 年 2 月 6 日"
+      }
+    ]
+  },
+  "chain": [
+    {
+      "date": "2024-02-07",
+      "title": "[临时公告]德源药业:关于原一致行动人协议到期终止、部分股东重新签署一致行动人协议暨实际控制人变更的公告",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-02-06/600056_20240206_O3XE.pdf"
+    }
+  ],
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

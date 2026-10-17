@@ -1,0 +1,41 @@
+{
+  "code": "831039",
+  "name": "国义招标",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：目标为831039国义招标（北交所），但指定目录唯一txt的正文证券代码为002817、证券简称为黄山胶囊，内容为安徽黄山胶囊股份有限公司股份转让进展，落款2022年10月30日。该正文不能作为国义招标交易的证据，因此全部目标字段（包括身份、状态、交易条款及实控人是否变更）均填null，未将黄山胶囊交易数据归入本单。需补充国义招标对应公告正文后重新抽取。",
+  "evidence": {
+    "notes": {
+      "file": "2022-10-31_[临时公告]国义招标_关于控股股东变更股权结构、公司名称及公司类型并完成工商变更登记的公告_1214977647..txt",
+      "quote": "证券代码：002817       证券简称：黄山胶囊     公告编号：2022-041"
+    }
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

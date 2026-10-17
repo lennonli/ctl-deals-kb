@@ -1,0 +1,1329 @@
+{
+ "year": "2023",
+ "count": 147,
+ "deals": [
+  {
+   "code": "000403",
+   "name": "派林生物",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-10-26",
+   "file": "000403.json"
+  },
+  {
+   "code": "000681",
+   "name": "视觉中国",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-03-03",
+   "file": "000681.json"
+  },
+  {
+   "code": "000697",
+   "name": "*ST炼石",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "定增认购",
+   "first_announce_date": "2023-05-09",
+   "file": "000697.json"
+  },
+  {
+   "code": "000697",
+   "name": "*ST炼石",
+   "board": null,
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "000697_2.json"
+  },
+  {
+   "code": "000713",
+   "name": "丰乐种业",
+   "board": null,
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": null,
+   "file": "000713.json"
+  },
+  {
+   "code": "000722",
+   "name": "湖南发展",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": null,
+   "file": "000722.json"
+  },
+  {
+   "code": "000839",
+   "name": "ST国安",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-01-20",
+   "file": "000839.json"
+  },
+  {
+   "code": "000863",
+   "name": "三湘印象",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-18",
+   "file": "000863.json"
+  },
+  {
+   "code": "000936",
+   "name": "华西股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-07-21",
+   "file": "000936.json"
+  },
+  {
+   "code": "000975",
+   "name": "银泰黄金",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-12-12",
+   "file": "000975.json"
+  },
+  {
+   "code": "001208",
+   "name": "华菱线缆",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-17",
+   "file": "001208.json"
+  },
+  {
+   "code": "002012",
+   "name": "凯恩股份",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-12-08",
+   "file": "002012.json"
+  },
+  {
+   "code": "002091",
+   "name": "江苏国泰",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-12-13",
+   "file": "002091.json"
+  },
+  {
+   "code": "002121",
+   "name": "科陆电子",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-05-24",
+   "file": "002121.json"
+  },
+  {
+   "code": "002157",
+   "name": "*ST正邦",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "重整投资",
+   "first_announce_date": "2023-08-05",
+   "file": "002157.json"
+  },
+  {
+   "code": "002159",
+   "name": "三特索道",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-02-04",
+   "file": "002159.json"
+  },
+  {
+   "code": "002174",
+   "name": "游族网络",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-03-02",
+   "file": "002174.json"
+  },
+  {
+   "code": "002175",
+   "name": "东方智造",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-12-06",
+   "file": "002175.json"
+  },
+  {
+   "code": "002182",
+   "name": "云海金属",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "定增认购",
+   "first_announce_date": "2022-10-19",
+   "file": "002182.json"
+  },
+  {
+   "code": "002195",
+   "name": "二三四五",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-09",
+   "file": "002195.json"
+  },
+  {
+   "code": "002207",
+   "name": "准油股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-02-28",
+   "file": "002207.json"
+  },
+  {
+   "code": "002217",
+   "name": "合力泰",
+   "board": "深主板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-06",
+   "file": "002217.json"
+  },
+  {
+   "code": "002251",
+   "name": "ST步步高",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-09",
+   "file": "002251.json"
+  },
+  {
+   "code": "002289",
+   "name": "ST宇顺",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-10",
+   "file": "002289.json"
+  },
+  {
+   "code": "002356",
+   "name": "赫美集团",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-01-04",
+   "file": "002356.json"
+  },
+  {
+   "code": "002418",
+   "name": "康盛股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-04-25",
+   "file": "002418.json"
+  },
+  {
+   "code": "002437",
+   "name": "誉衡药业",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "其他（司法拍卖）",
+   "first_announce_date": "2023-02-02",
+   "file": "002437.json"
+  },
+  {
+   "code": "002439",
+   "name": "启明星辰",
+   "board": null,
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "002439.json"
+  },
+  {
+   "code": "002443",
+   "name": "金洲管道",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-18",
+   "file": "002443.json"
+  },
+  {
+   "code": "002503",
+   "name": "搜于特",
+   "board": "深主板",
+   "status": "已终止",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "002503.json"
+  },
+  {
+   "code": "002510",
+   "name": "天汽模",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-12-04",
+   "file": "002510.json"
+  },
+  {
+   "code": "002513",
+   "name": "蓝丰生化",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-17",
+   "file": "002513.json"
+  },
+  {
+   "code": "002517",
+   "name": "恺英网络",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "管理层收购",
+   "first_announce_date": "2023-11-21",
+   "file": "002517.json"
+  },
+  {
+   "code": "002565",
+   "name": "顺灏股份",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-01-04",
+   "file": "002565.json"
+  },
+  {
+   "code": "002638",
+   "name": "勤上股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-04-25",
+   "file": "002638.json"
+  },
+  {
+   "code": "002644",
+   "name": "佛慈制药",
+   "board": null,
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": null,
+   "file": "002644.json"
+  },
+  {
+   "code": "002662",
+   "name": "京威股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-04-20",
+   "file": "002662.json"
+  },
+  {
+   "code": "002682",
+   "name": "龙洲股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-12-23",
+   "file": "002682.json"
+  },
+  {
+   "code": "002694",
+   "name": "顾地科技",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "定增认购",
+   "first_announce_date": null,
+   "file": "002694.json"
+  },
+  {
+   "code": "002697",
+   "name": "红旗连锁",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-12-20",
+   "file": "002697.json"
+  },
+  {
+   "code": "002730",
+   "name": "电光科技",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-03-30",
+   "file": "002730.json"
+  },
+  {
+   "code": "002739",
+   "name": "万达电影",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-12-13",
+   "file": "002739.json"
+  },
+  {
+   "code": "002760",
+   "name": "凤形股份",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-06",
+   "file": "002760.json"
+  },
+  {
+   "code": "002785",
+   "name": "万里石",
+   "board": null,
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "002785.json"
+  },
+  {
+   "code": "002795",
+   "name": "永和智控",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-13",
+   "file": "002795.json"
+  },
+  {
+   "code": "002800",
+   "name": "ST天顺",
+   "board": "深主板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-09-25",
+   "file": "002800.json"
+  },
+  {
+   "code": "002825",
+   "name": "纳尔股份",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-12-23",
+   "file": "002825.json"
+  },
+  {
+   "code": "002880",
+   "name": "卫光生物",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "002880.json"
+  },
+  {
+   "code": "002911",
+   "name": "佛燃能源",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-12-27",
+   "file": "002911.json"
+  },
+  {
+   "code": "002941",
+   "name": "新疆交建",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-11-23",
+   "file": "002941.json"
+  },
+  {
+   "code": "002968",
+   "name": "新大正",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-04-28",
+   "file": "002968.json"
+  },
+  {
+   "code": "002989",
+   "name": "中天精装",
+   "board": "深主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": null,
+   "file": "002989.json"
+  },
+  {
+   "code": "200152",
+   "name": "*ST山航B",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2022-06-15",
+   "file": "200152.json"
+  },
+  {
+   "code": "200468",
+   "name": "宁通信B",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-09-15",
+   "file": "200468.json"
+  },
+  {
+   "code": "300058",
+   "name": "蓝色光标",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "其他",
+   "first_announce_date": "2023-08-18",
+   "file": "300058.json"
+  },
+  {
+   "code": "300084",
+   "name": "海默科技",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-03",
+   "file": "300084.json"
+  },
+  {
+   "code": "300102",
+   "name": "乾照光电",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "二级市场增持",
+   "first_announce_date": "2023-01-31",
+   "file": "300102.json"
+  },
+  {
+   "code": "300110",
+   "name": "华仁药业",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-10-26",
+   "file": "300110.json"
+  },
+  {
+   "code": "300114",
+   "name": "中航电测",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-07-27",
+   "file": "300114.json"
+  },
+  {
+   "code": "300135",
+   "name": "宝利国际",
+   "board": "创业板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-02-02",
+   "file": "300135.json"
+  },
+  {
+   "code": "300140",
+   "name": "中环装备",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-07-14",
+   "file": "300140.json"
+  },
+  {
+   "code": "300165",
+   "name": "天瑞仪器",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-05-16",
+   "file": "300165.json"
+  },
+  {
+   "code": "300210",
+   "name": "森远股份",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-10-31",
+   "file": "300210.json"
+  },
+  {
+   "code": "300266",
+   "name": "兴源环境",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "300266.json"
+  },
+  {
+   "code": "300287",
+   "name": "飞利信",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-06-06",
+   "file": "300287.json"
+  },
+  {
+   "code": "300313",
+   "name": "*ST天山",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-10-10",
+   "file": "300313.json"
+  },
+  {
+   "code": "300323",
+   "name": "华灿光电",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2022-11-07",
+   "file": "300323.json"
+  },
+  {
+   "code": "300338",
+   "name": "ST 开元",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-04-15",
+   "file": "300338.json"
+  },
+  {
+   "code": "300387",
+   "name": "富邦股份",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-01-17",
+   "file": "300387.json"
+  },
+  {
+   "code": "300400",
+   "name": "劲拓股份",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-30",
+   "file": "300400.json"
+  },
+  {
+   "code": "300422",
+   "name": "博世科",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-12-27",
+   "file": "300422.json"
+  },
+  {
+   "code": "300423",
+   "name": "昇辉科技",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": null,
+   "file": "300423.json"
+  },
+  {
+   "code": "300446",
+   "name": "乐凯新材",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-08-03",
+   "file": "300446.json"
+  },
+  {
+   "code": "300451",
+   "name": "创业慧康",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-08-25",
+   "file": "300451.json"
+  },
+  {
+   "code": "300460",
+   "name": "惠伦晶体",
+   "board": "创业板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-04-24",
+   "file": "300460.json"
+  },
+  {
+   "code": "300521",
+   "name": "爱司凯",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "300521.json"
+  },
+  {
+   "code": "300561",
+   "name": "汇金科技",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-02-07",
+   "file": "300561.json"
+  },
+  {
+   "code": "300647",
+   "name": "超频三",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-04-27",
+   "file": "300647.json"
+  },
+  {
+   "code": "300697",
+   "name": "电工合金",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-17",
+   "file": "300697.json"
+  },
+  {
+   "code": "300700",
+   "name": "岱勒新材",
+   "board": null,
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "300700.json"
+  },
+  {
+   "code": "300743",
+   "name": "天地数码",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "一致行动解除",
+   "first_announce_date": "2023-04-28",
+   "file": "300743.json"
+  },
+  {
+   "code": "300851",
+   "name": "交大思诺",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-10-27",
+   "file": "300851.json"
+  },
+  {
+   "code": "300890",
+   "name": "翔丰华",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": "一致行动解除",
+   "first_announce_date": "2023-09-15",
+   "file": "300890.json"
+  },
+  {
+   "code": "300899",
+   "name": "上海凯鑫",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-10-20",
+   "file": "300899.json"
+  },
+  {
+   "code": "300915",
+   "name": "海融科技",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-12-05",
+   "file": "300915.json"
+  },
+  {
+   "code": "301238",
+   "name": "瑞泰新材",
+   "board": "创业板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-12-13",
+   "file": "301238.json"
+  },
+  {
+   "code": "600066",
+   "name": "宇通客车",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-02-07",
+   "file": "600066.json"
+  },
+  {
+   "code": "600084",
+   "name": "中信尼雅",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": null,
+   "file": "600084.json"
+  },
+  {
+   "code": "600088",
+   "name": "中视传媒",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-04-21",
+   "file": "600088.json"
+  },
+  {
+   "code": "600220",
+   "name": "江苏阳光",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-06-02",
+   "file": "600220.json"
+  },
+  {
+   "code": "600238",
+   "name": "海南椰岛",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-06-29",
+   "file": "600238.json"
+  },
+  {
+   "code": "600243",
+   "name": "青海华鼎",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2022-12-26",
+   "file": "600243.json"
+  },
+  {
+   "code": "600282",
+   "name": "南钢股份",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": null,
+   "file": "600282.json"
+  },
+  {
+   "code": "600293",
+   "name": "三峡新材",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-12-22",
+   "file": "600293.json"
+  },
+  {
+   "code": "600303",
+   "name": "ST曙光",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-08-30",
+   "file": "600303.json"
+  },
+  {
+   "code": "600425",
+   "name": "青松建化",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-12-22",
+   "file": "600425.json"
+  },
+  {
+   "code": "600481",
+   "name": "双良节能",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-11-03",
+   "file": "600481.json"
+  },
+  {
+   "code": "600515",
+   "name": "海南机场",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-20",
+   "file": "600515.json"
+  },
+  {
+   "code": "600527",
+   "name": "江南高纤",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-07-22",
+   "file": "600527.json"
+  },
+  {
+   "code": "600540",
+   "name": "新赛股份",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-07-12",
+   "file": "600540.json"
+  },
+  {
+   "code": "600661",
+   "name": "昂立教育",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "股权结构变动认定",
+   "first_announce_date": "2023-11-07",
+   "file": "600661.json"
+  },
+  {
+   "code": "600671",
+   "name": "天目药业",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-09-19",
+   "file": "600671.json"
+  },
+  {
+   "code": "600766",
+   "name": "园城黄金",
+   "board": "沪主板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-05-05",
+   "file": "600766.json"
+  },
+  {
+   "code": "600766",
+   "name": "*ST 园城",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-20",
+   "file": "600766_2.json"
+  },
+  {
+   "code": "600817",
+   "name": "宇通重工",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-02-07",
+   "file": "600817.json"
+  },
+  {
+   "code": "600844",
+   "name": "丹化科技",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-04-07",
+   "file": "600844.json"
+  },
+  {
+   "code": "600898",
+   "name": "*ST美讯",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-02-10",
+   "file": "600898.json"
+  },
+  {
+   "code": "600917",
+   "name": "重庆燃气",
+   "board": null,
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "600917.json"
+  },
+  {
+   "code": "600926",
+   "name": "杭州银行",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-02-12",
+   "file": "600926.json"
+  },
+  {
+   "code": "601179",
+   "name": "中国西电",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-12-16",
+   "file": "601179.json"
+  },
+  {
+   "code": "601212",
+   "name": "白银有色",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-02-21",
+   "file": "601212.json"
+  },
+  {
+   "code": "601311",
+   "name": "骆驼股份",
+   "board": null,
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-11-17",
+   "file": "601311.json"
+  },
+  {
+   "code": "601606",
+   "name": "长城军工",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2022-12-31",
+   "file": "601606.json"
+  },
+  {
+   "code": "601828",
+   "name": "美凯龙",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-01-18",
+   "file": "601828.json"
+  },
+  {
+   "code": "601965",
+   "name": "中国汽研",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-10-01",
+   "file": "601965.json"
+  },
+  {
+   "code": "603038",
+   "name": "华立股份",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-09-23",
+   "file": "603038.json"
+  },
+  {
+   "code": "603042",
+   "name": "华脉科技",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "定增认购",
+   "first_announce_date": "2023-06-21",
+   "file": "603042.json"
+  },
+  {
+   "code": "603088",
+   "name": "宁波精达",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2022-09-14",
+   "file": "603088.json"
+  },
+  {
+   "code": "603117",
+   "name": "ST万林",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-03-29",
+   "file": "603117.json"
+  },
+  {
+   "code": "603136",
+   "name": "天目湖",
+   "board": null,
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-03-11",
+   "file": "603136.json"
+  },
+  {
+   "code": "603161",
+   "name": "科华控股",
+   "board": "沪主板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2022-07-09",
+   "file": "603161.json"
+  },
+  {
+   "code": "603196",
+   "name": "日播时尚",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-05-16",
+   "file": "603196.json"
+  },
+  {
+   "code": "603288",
+   "name": "海天味业",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-12-29",
+   "file": "603288.json"
+  },
+  {
+   "code": "603329",
+   "name": "上海雅仕",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-09-21",
+   "file": "603329.json"
+  },
+  {
+   "code": "603331",
+   "name": "百达精工",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-07-06",
+   "file": "603331.json"
+  },
+  {
+   "code": "603345",
+   "name": "安井食品",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2023-09-11",
+   "file": "603345.json"
+  },
+  {
+   "code": "603477",
+   "name": "巨星农牧",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-08-08",
+   "file": "603477.json"
+  },
+  {
+   "code": "603488",
+   "name": "展鹏科技",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-09-08",
+   "file": "603488.json"
+  },
+  {
+   "code": "603578",
+   "name": "三星新材",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-03-23",
+   "file": "603578.json"
+  },
+  {
+   "code": "603637",
+   "name": "镇海股份",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-02-28",
+   "file": "603637.json"
+  },
+  {
+   "code": "603650",
+   "name": "彤程新材",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-05-25",
+   "file": "603650.json"
+  },
+  {
+   "code": "603655",
+   "name": "朗博科技",
+   "board": null,
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-03-02",
+   "file": "603655.json"
+  },
+  {
+   "code": "603685",
+   "name": "晨丰科技",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-05-09",
+   "file": "603685.json"
+  },
+  {
+   "code": "603767",
+   "name": "中马传动",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2023-10-24",
+   "file": "603767.json"
+  },
+  {
+   "code": "603778",
+   "name": "国晟科技",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-08-10",
+   "file": "603778.json"
+  },
+  {
+   "code": "603816",
+   "name": "顾家家居",
+   "board": null,
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-11-09",
+   "file": "603816.json"
+  },
+  {
+   "code": "603880",
+   "name": "南卫股份",
+   "board": "沪主板",
+   "status": "已终止",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2023-06-09",
+   "file": "603880.json"
+  },
+  {
+   "code": "603893",
+   "name": "瑞芯微",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-02-08",
+   "file": "603893.json"
+  },
+  {
+   "code": "603927",
+   "name": "中科软",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-06-30",
+   "file": "603927.json"
+  },
+  {
+   "code": "605011",
+   "name": "杭州热电",
+   "board": null,
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "605011.json"
+  },
+  {
+   "code": "688200",
+   "name": "华峰测控",
+   "board": "科创板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-03-03",
+   "file": "688200.json"
+  },
+  {
+   "code": "688278",
+   "name": "特宝生物",
+   "board": "科创板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-01-17",
+   "file": "688278.json"
+  },
+  {
+   "code": "688301",
+   "name": "奕瑞科技",
+   "board": "科创板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2023-09-19",
+   "file": "688301.json"
+  },
+  {
+   "code": "688526",
+   "name": "科前生物",
+   "board": "科创板",
+   "status": null,
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "688526.json"
+  },
+  {
+   "code": "688550",
+   "name": "瑞联新材",
+   "board": "科创板",
+   "status": null,
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "688550.json"
+  },
+  {
+   "code": "688567",
+   "name": "孚能科技",
+   "board": "科创板",
+   "status": null,
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "688567.json"
+  },
+  {
+   "code": "831039",
+   "name": "国义招标",
+   "board": "北交所",
+   "status": null,
+   "change_type": null,
+   "first_announce_date": null,
+   "file": "831039.json"
+  }
+ ]
+}

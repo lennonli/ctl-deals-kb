@@ -1,0 +1,71 @@
+{
+  "code": "300711",
+  "name": "广哈通信",
+  "board": null,
+  "status": null,
+  "status_date": "2024-02-05",
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": "未披露协议条款",
+  "notes": "本公告仅涉及控股股东广州无线电集团有限公司更名为广州数字科技集团有限公司并完成工商变更登记，不涉及持股变动，未披露控制权变更交易；实控人未变更。公告未披露实际控制人名称，不虚设转让方或受让方，transferors、transferees及交易相关字段填null。status_date为本次更名公告落款日期，非股份过户完成日期；status填null。公告未披露所属板块，board填null。",
+  "evidence": {
+    "code": {
+      "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+      "quote": "证券代码：300711"
+    },
+    "name": {
+      "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+      "quote": "证券简称：广哈通信"
+    },
+    "status_date": {
+      "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+      "quote": "2024 年 2 月 5 日"
+    },
+    "completeness": {
+      "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+      "quote": "关于控股股东更名并完成工商变更登记的公告"
+    },
+    "notes": [
+      {
+        "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+        "quote": "广州无线电集团有限公司现已正式更名为“广州数字科技集团\n有限公司”"
+      },
+      {
+        "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+        "quote": "上述工商变更手续已办理完毕"
+      },
+      {
+        "file": "2024-02-05_广哈通信：关于控股股东更名并完成工商变更登记的公告_1219089758..txt",
+        "quote": "本次公司控股股东更名不涉及公司控股股东的持股变动，公司控股股东及实\n际控制人未发生变化"
+      }
+    ]
+  },
+  "chain": [
+    {
+      "date": "2024-02-05",
+      "title": "广哈通信：关于控股股东更名并完成工商变更登记的公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-02-05/1219089758.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "transition": null,
+  "tax": null
+}

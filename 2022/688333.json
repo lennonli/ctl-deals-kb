@@ -1,0 +1,41 @@
+{
+  "code": "688333",
+  "name": "铂力特",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：任务目标为688333铂力特（科创板），但指定目录唯一txt的正文为600714金瑞矿业《青海金瑞矿业发展股份有限公司关于实际控制人发生变更的提示性公告》（落款2022年6月30日），涉及金瑞矿业执行重整计划导致实控人变更事项，正文无任何目标公司事实，不能作为铂力特交易事实的依据。按仅从该目录txt提取事实的规则，目标公司的代码、简称、板块及全部交易字段均填null；无法核实铂力特本次交易是否导致实际控制人变更。需补充正确的铂力特公告文本后重新抽取。",
+  "evidence": {
+    "notes": {
+      "file": "2022-07-05_铂力特：北京金诚同达（西安）律师事务所关于西安铂力特增材技术股份有限公司相关股东解除一致行动协议及实际控制人变更的法律意_600714_20220630_3_wQldqU69.txt",
+      "quote": "证券代码：600714    证券简称：金瑞矿业       编号：临2022-025号"
+    }
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

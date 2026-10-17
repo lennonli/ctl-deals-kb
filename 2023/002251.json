@@ -1,0 +1,91 @@
+{
+ "code": "002251",
+ "name": "ST步步高",
+ "board": "深主板",
+ "status": "进行中",
+ "status_date": "2023-01-09",
+ "plan_date": "2023-01-09",
+ "sign_date": null,
+ "first_announce_date": "2023-01-09",
+ "transferors": [
+  {
+   "name": "步步高投资集团股份有限公司",
+   "type": "民企",
+   "pre_pct": null,
+   "evidence": {
+    "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+    "quote": "接到公司控股股东步步高投资集团股份有限公司（以下简称“步步高集团”）通知"
+   }
+  }
+ ],
+ "transferees": [
+  {
+   "name": null,
+   "type": "地方国资",
+   "final_controller": null,
+   "gets": null,
+   "evidence": {
+    "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+    "quote": "本次交易对手方属于地方政府产业投资平台，主要从事产业投资业务"
+   }
+  }
+ ],
+ "change_type": "直接协议转让",
+ "structure": [
+  "协议转让",
+  "表决权委托"
+ ],
+ "shares": null,
+ "pct": "29.00%（合计股份转让及表决委托权比例，具体比例及交易方式待确定）",
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": "合计股份转让及表决委托权比例占公司总股本的29.00%（转让与委托的具体拆分待确定）",
+ "conditions": [
+  "本次交易事项需有关部门进行事前审批",
+  "本交易相关具体事项尚需经交易对手方履行内部程序"
+ ],
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "completeness": "未披露协议条款",
+ "notes": "本资料目录仅含2023-01-09筹划停牌公告，交易尚处筹划阶段：无协议签署日、无受让方名称（仅披露为'地方政府产业投资平台'）、无股数/价格/金额等条款，相关字段填null。公告明示'涉及公司控制权变更'，受让方final_controller待后续公告确认。transferors[].pre_pct原文未披露。",
+ "evidence": [
+  {
+   "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+   "quote": "合计股份转让及表决委托权比例占公司总股本的 29.00%"
+  },
+  {
+   "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+   "quote": "涉及公司控制权变更"
+  },
+  {
+   "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+   "quote": "本次交易事项需有关部门进行事前审批"
+  },
+  {
+   "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+   "quote": "公司股票于 2023 年 1 月 9 日开市起停牌，预计停牌时间不超过2 个交易日"
+  },
+  {
+   "file": "2023-01-09_ST步步高：关于控股股东筹划控制权变更暨停牌的公告_1215554309..txt",
+   "quote": "本交易相关具体事项尚需经交易对手方履行内部程序"
+  }
+ ],
+ "chain": [
+  {
+   "date": "2023-01-09",
+   "title": "ST步步高：关于控股股东筹划控制权变更暨停牌的公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2023-01-09/1215554309.PDF"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

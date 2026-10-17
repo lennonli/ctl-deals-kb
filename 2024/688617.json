@@ -1,0 +1,68 @@
+{
+  "code": "688617",
+  "name": "惠泰医疗",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "源文件正文与目标688617惠泰医疗不符：1219012073文件正文为002598山东章鼓关于间接控股股东权益变动暨工商变更登记完成的公告；600409_20240127_LDWG文件正文为600409三友化工关于股东权益变动暨公司实际控制人情况拟发生变更的进展公告；1219920217文件正文为002377国创高新关于控股股东协议转让股权暨控制权拟发生变更和权益变动的提示性公告。目录仅有上述三份txt，未检出目标证券代码或公司名称。依只从本目录txt提取事实的规则，全部目标事实字段设为null，不能判断实际控制人是否变更；不可将其他公司的交易信息或文件名日期作为目标交易事实。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2024-01-29_惠泰医疗：关于股东权益变动暨控股股东和实际控制人拟发生变更的提示性公告_1219012073..txt",
+        "quote": "证券代码：002598        证券简称：山东章鼓"
+      },
+      {
+        "file": "2024-01-29_惠泰医疗：关于股东权益变动暨控股股东和实际控制人拟发生变更的提示性公告_600409_20240127_LDWG.txt",
+        "quote": "证券代码：600409      证券简称：三友化工"
+      },
+      {
+        "file": "2024-04-30_惠泰医疗：关于公司控制权变更的公告_1219920217..txt",
+        "quote": "证券代码：002377   证券简称：国创高新"
+      }
+    ]
+  },
+  "chain": [
+    {
+      "date": "2024-01-29",
+      "title": "惠泰医疗：关于股东权益变动暨控股股东和实际控制人拟发生变更的提示性公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-01-27/1219012073.PDF"
+    },
+    {
+      "date": "2024-01-29",
+      "title": "惠泰医疗：关于股东权益变动暨控股股东和实际控制人拟发生变更的提示性公告",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-01-27/600409_20240127_LDWG.pdf"
+    },
+    {
+      "date": "2024-04-30",
+      "title": "惠泰医疗：关于公司控制权变更的公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-04-30/1219920217.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

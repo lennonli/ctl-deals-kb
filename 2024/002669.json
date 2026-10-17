@@ -1,0 +1,74 @@
+{
+ "code": "002669",
+ "name": "康达新材",
+ "board": null,
+ "status": null,
+ "status_date": "2024-06-28",
+ "plan_date": null,
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": null,
+ "transferees": null,
+ "change_type": null,
+ "structure": null,
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": null,
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "completeness": "未披露协议条款",
+ "notes": "本公告仅涉及控股股东由唐山金控产业发展集团有限公司更名为唐山工业控股集团有限公司并完成工商变更登记，不涉及持股变动，对公司治理及生产经营活动不构成影响，不构成控制权变更交易；实控人未变更（公告明示公司控股股东及实际控制人未发生变化）。公告未披露实际控制人名称，不虚设转让方或受让方，transferors、transferees及交易相关字段填null。status_date为本次更名公告落款日期，非股份过户完成日期；status填null。公告未明示所属板块，board填null。",
+ "evidence": {
+  "code": {
+   "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+   "quote": "证券代码：002669"
+  },
+  "name": {
+   "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+   "quote": "证券简称：康达新材"
+  },
+  "status_date": {
+   "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+   "quote": "二〇二四年六月二十八日"
+  },
+  "completeness": {
+   "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+   "quote": "关于控股股东名称变更并完成工商变更登记的公告"
+  },
+  "notes": [
+   {
+    "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+    "quote": "其名称由“唐山金控产业发展集团有限公司”变更为“唐山工业控股\n集团有限公司”"
+   },
+   {
+    "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+    "quote": "并已完成工商变更登记手续，取得了换发的《营业执照》。"
+   },
+   {
+    "file": "2024-06-28_康达新材：关于控股股东名称变更并完成工商变更登记的公告_1220482416..txt",
+    "quote": "上述工商变更事项不涉及控股股东的持股变动，对公司治理及生产经营活\n动不构成影响，公司控股股东及实际控制人未发生变化。"
+   }
+  ]
+ },
+ "chain": [
+  {
+   "date": "2024-06-28",
+   "title": "康达新材：关于控股股东名称变更并完成工商变更登记的公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2024-06-28/1220482416.PDF"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

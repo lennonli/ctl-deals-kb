@@ -1,0 +1,62 @@
+{
+ "code": "600898",
+ "name": "*ST美讯",
+ "board": "沪主板",
+ "status": "进行中",
+ "status_date": "2023-02-10",
+ "status_evidence": {
+  "file": "2023-02-11__ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告_600898_20230211_Z96J.txt",
+  "quote": "国美通讯设备股份有限公司董事会 二〇二三年二月十日"
+ },
+ "plan_date": null,
+ "sign_date": null,
+ "first_announce_date": "2023-02-10",
+ "first_announce_date_evidence": {
+  "file": "2023-02-11__ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告_600898_20230211_Z96J.txt",
+  "quote": "国美通讯设备股份有限公司董事会 二〇二三年二月十日"
+ },
+ "transferors": [],
+ "transferees": [],
+ "change_type": "间接收购",
+ "change_type_evidence": {
+  "file": "2023-02-11__ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告_600898_20230211_Z96J.txt",
+  "quote": "控股股东山东龙脊岛建设有限公司上层股权结构发生变动导致公司实际控制人发生变更"
+ },
+ "structure": [],
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": [],
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": "本次权益变动不触及要约收购",
+ "offer_evidence": {
+  "file": "2023-02-11__ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告_600898_20230211_Z96J.txt",
+  "quote": "本次权益变动不触及要约收购"
+ },
+ "completeness": "未披露协议条款",
+ "completeness_evidence": {
+  "file": "2023-02-11__ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告_600898_20230211_Z96J.txt",
+  "quote": "本次权益变动不涉及山东龙脊岛持有国美通讯的股份数量和持股比例变化"
+ },
+ "notes": "本交易为间接权益变动，不涉及股份转让协议，无转让方/受让方，transferors/transferees 均为空。变动原因：原实际控制人黄光裕因自身资金需求将其持有的国美零售（0493.HK）股权比例由57.13%减少至10.74%，低于港交所控股股东30%标准，国美零售无控股股东，山东龙脊岛变更为无实际控制人，进而国美通讯实际控制人由黄光裕变更为无实际控制人。本次权益变动后控股股东仍为山东龙脊岛（持有83,336,631股，占总股本29.20%），其一致行动人北京战圣持有22,765,602股（7.98%），不涉及二者持股变化。竞天公诚律师出具法律意见书认定公司无实际控制人。公告中证券简称为\"国美通讯\"（临2023-14）。status填\"进行中\"系因按schema判定规则：无过户完成或终止公告则填进行中；实际权益变动结果（无实际控制人）在公告日已生效。",
+ "chain": [
+  {
+   "date": "2023-02-11",
+   "title": "*ST美讯：国美通讯设备股份有限公司关于实际控制人变更的提示性公告",
+   "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-02-11/600898_20230211_Z96J.pdf"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

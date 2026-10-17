@@ -1,0 +1,106 @@
+{
+ "code": "002263",
+ "name": "大东南",
+ "board": "深主板",
+ "status": "进行中",
+ "status_date": "2024-04-26",
+ "plan_date": "2024-04-26",
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": [
+  {
+   "name": "诸暨市水务集团有限公司",
+   "type": "其他",
+   "pre_pct": null
+  }
+ ],
+ "transferees": null,
+ "change_type": null,
+ "structure": [
+  "公开征集转让"
+ ],
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": null,
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": null,
+ "completeness": "未披露协议条款",
+ "notes": "目录仅有筹划停牌公告；公司于2024-04-25收到第一大股东通知，拟公开征集转让股份，尚处筹划阶段。公告仅称可能导致公司控制权变更，未明确实际控制人是否变更及变更后实际控制人。受让方、转让数量及价格、协议签署及首次签署公告日期、协议条款均未披露，相关字段填null。转让方为拟转让股份的第一大股东，公告未披露其企业性质，type按其他记录。board依据所引深圳证券交易所主板规则填写。",
+ "evidence": {
+  "code": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "证券代码：002263"
+  },
+  "name": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "证券简称：大东南"
+  },
+  "board": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "《深圳证券交易所上市公司自律监管指引第\n\n1 号——主板上市公司规范运作》"
+  },
+  "status": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "该事项正在筹划\n\n中，目前尚存在重大不确定性。"
+  },
+  "status_date": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "2024 年 4 月 26 日"
+  },
+  "plan_date": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "2024 年 4 月 26 日"
+  },
+  "transferors": [
+   {
+    "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+    "quote": "公司第一大股东诸暨市水务集团有限公司"
+   },
+   {
+    "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+    "quote": "一大股东”）的通知，公司第一大股东正在筹划有关公司的股份公开\n\n征集转让事宜"
+   }
+  ],
+  "structure": [
+   {
+    "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+    "quote": "公司第一大股东正在筹划有关公司的股份公开\n\n征集转让事宜"
+   }
+  ],
+  "completeness": {
+   "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+   "quote": "该事项正在筹划\n\n中，目前尚存在重大不确定性。"
+  },
+  "notes": [
+   {
+    "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+    "quote": "25 日收到公司第一大股东诸暨市水务集团有限公司"
+   },
+   {
+    "file": "2024-04-26_大东南：关于筹划控制权变更事项的停牌公告_1219831009..txt",
+    "quote": "征集转让事宜，该事项可能导致公司的控制权变更。该事项正在筹划\n\n中，目前尚存在重大不确定性。"
+   }
+  ]
+ },
+ "chain": [
+  {
+   "date": "2024-04-26",
+   "title": "大东南：关于筹划控制权变更事项的停牌公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2024-04-26/1219831009.PDF"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

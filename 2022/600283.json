@@ -1,0 +1,67 @@
+{
+  "code": "600283",
+  "name": "钱江水利",
+  "board": null,
+  "status": "进行中",
+  "status_date": "2022-01-05",
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": "未披露协议条款",
+  "notes": "本目录仅有2022-01-05补充说明公告的见微正文预览，文本明确标注预览截断，未包含交易方案或协议条款。标题仅表明实际控制人拟发生变更，无法核实原实控人、新实控人及是否最终发生变更。status按schema无完成或终止信息时的默认规则填进行中，仅反映本材料范围；status_date取预览所载公告日期。预览提及2021-12-29关联主公告，但该主公告正文不在目录内，不能据此确定筹划披露日或协议首次公告日，相应字段填null。板块虽由任务指定为沪主板，目录文本未明确披露，按仅从txt提取事实规则填null。交易方、交易结构、数量、价格和条款均无法从预览核实，填null；数组字段的null表示信息缺失，不表示不存在相应安排。completeness仅指所提供预览未披露协议条款，不代表完整公告亦未披露。",
+  "evidence": {
+    "code": {
+      "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+      "quote": "股票代码： 600283"
+    },
+    "name": {
+      "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+      "quote": "股票简称：钱江水利"
+    },
+    "status": {
+      "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+      "quote": "关于公司实际控制人拟发生变更"
+    },
+    "status_date": {
+      "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+      "quote": "日期：2022-01-05"
+    },
+    "completeness": {
+      "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+      "quote": "【来源说明】本文件为见微数据公告检索返回的公告正文预览（非完整PDF）。"
+    },
+    "notes": [
+      {
+        "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+        "quote": "【来源说明】本文件为见微数据公告检索返回的公告正文预览（非完整PDF）。"
+      },
+      {
+        "file": "2022-01-05_钱江水利：钱江水利开发股份有限公司关于公司实际控制人拟发生变更补充说明的公告_见微预览.txt",
+        "quote": "（预览截断。关联主公告：2021-12-29《关于公司实际控制人拟发生变更暨股票复牌的提示性公告》）"
+      }
+    ]
+  },
+  "reps_warranties": null,
+  "reps_warranties_evidence": null,
+  "transition": null,
+  "transition_evidence": null,
+  "tax": null,
+  "tax_evidence": null
+}

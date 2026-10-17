@@ -1,0 +1,132 @@
+{
+ "code": "002644",
+ "code_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "证券代码：002644"
+ },
+ "name": "佛慈制药",
+ "name_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "证券简称：佛慈制药"
+ },
+ "board": null,
+ "status": "进行中",
+ "status_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "相关协议尚未签署，且需相关政府部门的批准。"
+ },
+ "status_date": "2023-02-23",
+ "status_date_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "即自 2023 年 2 月 23 日（星期四）开市起继续停牌"
+ },
+ "plan_date": "2023-02-21",
+ "plan_date_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "公司于 2023 年 2 月 21 日披露于《证券时报》"
+ },
+ "sign_date": null,
+ "first_announce_date": null,
+ "transferors": [
+  {
+   "name": "兰州市人民政府国有资产监督管理委员会",
+   "name_evidence": {
+    "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+    "quote": "实际控制人兰州市人民\n政府国有资产监督管理委员会正在筹划"
+   },
+   "type": "地方国资",
+   "type_evidence": {
+    "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+    "quote": "实际控制人兰州市人民\n政府国有资产监督管理委员会正在筹划"
+   },
+   "pre_pct": null
+  }
+ ],
+ "transferors_evidence": [
+  {
+   "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+   "quote": "实际控制人兰州市人民\n政府国有资产监督管理委员会正在筹划"
+  }
+ ],
+ "transferees": [
+  {
+   "name": "甘肃省国有资产投资集团有限公司",
+   "name_evidence": {
+    "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+    "quote": "向甘肃省国有资产投资集团有限公司转\n让控股股东兰州佛慈医药产业发展集团有限公司控制权"
+   },
+   "type": "其他",
+   "type_evidence": {
+    "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+    "quote": "甘肃省国有资产投资集团有限公司"
+   },
+   "final_controller": null,
+   "gets": null
+  }
+ ],
+ "transferees_evidence": [
+  {
+   "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+   "quote": "向甘肃省国有资产投资集团有限公司转\n让控股股东兰州佛慈医药产业发展集团有限公司控制权"
+  }
+ ],
+ "change_type": "间接收购",
+ "change_type_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "转\n让控股股东兰州佛慈医药产业发展集团有限公司控制权"
+ },
+ "structure": null,
+ "shares": null,
+ "pct": null,
+ "price_per_share": null,
+ "total_amount": null,
+ "price_note": null,
+ "premium_pct": null,
+ "vote_rights": null,
+ "conditions": [
+  "需相关政府部门的批准"
+ ],
+ "conditions_evidence": [
+  {
+   "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+   "quote": "相关协议尚未签署，且需相关政府部门的批准。"
+  }
+ ],
+ "payment": null,
+ "governance": null,
+ "breach": null,
+ "termination": null,
+ "offer": "相关收购人可能因本次控制权变更事项触发相应的要约收购义务；具体安排未披露。",
+ "offer_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "相关收购人将可能因此触发相\n应的要约收购义务。"
+ },
+ "completeness": "未披露协议条款",
+ "completeness_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "上述事项尚属于洽谈阶段，未签署任何交易协议"
+ },
+ "notes": "截至最新公告，本交易仍处于筹划洽谈阶段，拟转让上市公司控股股东兰州佛慈医药产业发展集团有限公司控制权，公告仅称可能涉及公司控制权变更，未确认实际控制人已变更，也未明示实控人不变。受让方最终实控人未披露；受让方性质未明确披露，按schema填其他。未披露具体交易结构、股数、比例、价款或协议条款，相关字段填null；first_announce_date指签署协议的首次公告日，因协议未签署而填null。文本未明确深主板，board填null。plan_date取正文明确的披露日2023-02-21，最新状态日取文件披露日及继续停牌日2023-02-23；两份公告落款日分别为2023-02-20和2023-02-22。",
+ "notes_evidence": {
+  "file": "2023-02-23_佛慈制药：关于筹划控制权变更进展暨继续停牌的公告_1215936574..txt",
+  "quote": "上述事项尚属于洽谈阶段，未签署任何交易协议，且需相关政府部门的批准，\n存在不确定性。"
+ },
+ "chain": [
+  {
+   "date": "2023-02-21",
+   "title": "佛慈制药：关于筹划控制权变更暨停牌的公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2023-02-21/1215908656.PDF"
+  },
+  {
+   "date": "2023-02-23",
+   "title": "佛慈制药：关于筹划控制权变更进展暨继续停牌的公告",
+   "url": "https://static.cninfo.com.cn/finalpage/2023-02-23/1215936574.PDF"
+  }
+ ],
+ "reps_warranties": null,
+ "reps_warranties_evidence": null,
+ "transition": null,
+ "transition_evidence": null,
+ "tax": null,
+ "tax_evidence": null
+}

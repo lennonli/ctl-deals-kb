@@ -1,0 +1,48 @@
+{
+  "code": "688601",
+  "name": "力芯微",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：指定目录唯一txt的文件名标称力芯微法律意见书，但正文证券代码为300110、证券简称为华仁药业，内容为华仁药业终止前次筹划并再次筹划实际控制人变更事项的公告。正文无法提供目标公司力芯微的有效证据，故包括code、name、board在内的目标字段均填null；未将华仁药业的主体、日期、交易安排或状态用于本笔。无法核实力芯微本次实控人是否变更，需更正源文件后重新抽取。 【补充抽取·源文件已修复 2026-10-16】batch_plan_2024.json 将本单 chain URL 串号配为华仁药业公告（1220419089，即原目录错置 txt）；已按 raw_sjkzr_2024_p2.json [84] 记录的真实来源重新下载力芯微法律意见书原件（cninfo finalpage 2024-06-22/1220427491.PDF，扫描件无文本层，经 RapidOCR 识别转存为目录内唯一 txt，错置文件备份于 /tmp/688601_wrong_1220419089.txt）。经通读全文：本单为袁敏民、毛成烈、周宝明、俱东辉、张亮、汤大勇、汪东、汪芳八人《一致行动协议》2024-06-27 到期不再续签、公司变更为无实际控制人，非股份转让交易，无转让方/受让方及转让协议，全文不存在陈述与保证、过渡期安排、税费承担条款，故 reps_warranties/transition/tax 三字段均为 null（属交易类型固有缺失，非资料缺失）。其余目标字段仍为 null，重新抽取需另行全量任务；OCR 文本可能存在个别识别误差，引用时建议核对原 PDF。",
+  "evidence": {
+    "notes": {
+      "file": "2024-06-22_力芯微：国浩律师（南京）事务所关于无锡力芯微电子股份有限公司一致行动协议到期终止暨变更为无实际控制人的法律意见书_1220419089..txt",
+      "quote": "证券代码：300110     证券简称：华仁药业        公告编号：2024-038"
+    }
+  },
+  "chain": [
+    {
+      "date": "2024-06-22",
+      "title": "力芯微：国浩律师（南京）事务所关于无锡力芯微电子股份有限公司一致行动协议到期终止暨变更为无实际控制人的法律意见书",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-06-21/1220419089.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "transition": null,
+  "tax": null,
+  "reps_warranties_evidence": null,
+  "transition_evidence": null,
+  "tax_evidence": null
+}

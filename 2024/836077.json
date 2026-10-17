@@ -1,0 +1,59 @@
+{
+  "code": "836077",
+  "name": "吉林碳谷",
+  "board": "北交所",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：指定目录仅有一份txt，正文证券代码为002656、证券简称为ST摩登，公告主体为摩登大道时尚集团股份有限公司，内容为解除表决权委托及一致行动关系，落款日期为2024年5月10日。正文明确林永飞仍为该公司实际控制人，实控人未变更；该结论仅属于ST摩登，不能归入目标836077吉林碳谷。未发现目标公司的交易事实，全部目标字段填null，无法判断吉林碳谷实际控制人是否变更；文件名中的公司名称和日期不作为目标交易事实。需补充正确的吉林碳谷公告正文。",
+  "evidence": {
+    "notes": [
+      {
+        "file": "2024-05-14_[临时公告]吉林碳谷_关于公司实际控制人拟发生变更的提示性公告_1220023226..txt",
+        "quote": "证券代码：002656       证券简称：ST 摩登"
+      },
+      {
+        "file": "2024-05-14_[临时公告]吉林碳谷_关于公司实际控制人拟发生变更的提示性公告_1220023226..txt",
+        "quote": "摩登大道时尚集团股份有限公司"
+      },
+      {
+        "file": "2024-05-14_[临时公告]吉林碳谷_关于公司实际控制人拟发生变更的提示性公告_1220023226..txt",
+        "quote": "上述协议签署后林永飞先生仍为公司实际控制人。"
+      },
+      {
+        "file": "2024-05-14_[临时公告]吉林碳谷_关于公司实际控制人拟发生变更的提示性公告_1220023226..txt",
+        "quote": "2024 年 5 月 10 日"
+      }
+    ]
+  },
+  "chain": [
+    {
+      "date": "2024-05-14",
+      "title": "[临时公告]吉林碳谷:关于公司实际控制人拟发生变更的提示性公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-05-10/1220023226.PDF"
+    }
+  ],
+  "reps_warranties": null,
+  "transition": null,
+  "tax": null
+}

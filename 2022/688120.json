@@ -1,0 +1,38 @@
+{
+  "code": "688120",
+  "name": "华海清科",
+  "board": "科创板",
+  "status": null,
+  "status_date": null,
+  "plan_date": null,
+  "sign_date": null,
+  "first_announce_date": null,
+  "transferors": null,
+  "transferees": null,
+  "change_type": null,
+  "structure": null,
+  "shares": null,
+  "pct": null,
+  "price_per_share": null,
+  "total_amount": null,
+  "price_note": null,
+  "premium_pct": null,
+  "vote_rights": null,
+  "conditions": null,
+  "payment": null,
+  "governance": null,
+  "breach": null,
+  "termination": null,
+  "offer": null,
+  "completeness": null,
+  "notes": "资料错配：任务目标为688120华海清科（科创板），但指定目录唯一txt的正文为603028赛福天《江苏赛福天钢索股份有限公司关于控股股东完成工商登记变更的公告》（落款2022年7月1日），涉及赛福天控股股东法定代表人变更事项，不能作为华海清科交易事实的依据。按仅从该目录txt提取事实的规则，目标公司的代码、简称、板块及全部交易字段均填null；无法核实华海清科本次交易是否导致实际控制人变更。需补充正确的华海清科公告文本后重新抽取。",
+  "evidence": {
+    "notes": {
+      "file": "2022-07-02_华海清科：关于间接控股股东清华控股有限公司国有股权无偿划转进展暨公司实际控制人发生变更的公告_603028_20220702_4_687yHTi7.txt",
+      "quote": "证券代码：603028         证券简称：赛福天       公告编号：2022-070"
+    }
+  },
+  "reps_warranties": null,
+  "transition": null,
+  "tax": null
+}
