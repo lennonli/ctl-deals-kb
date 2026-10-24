@@ -1,6 +1,6 @@
 {
  "year": "2026",
- "count": 271,
+ "count": 274,
  "deals": [
   {
    "code": "000008",
@@ -1470,6 +1470,15 @@
    "file": "301359.json"
   },
   {
+   "code": "301380",
+   "name": "挖金客",
+   "board": "创业板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2026-10-24",
+   "file": "301380.json"
+  },
+  {
    "code": "301390",
    "name": "经纬股份",
    "board": "创业板",
@@ -2010,6 +2019,15 @@
    "file": "603439.json"
   },
   {
+   "code": "603496",
+   "name": "恒为科技",
+   "board": "沪主板",
+   "status": "过户完成",
+   "change_type": null,
+   "first_announce_date": "2026-10-17",
+   "file": "603496.json"
+  },
+  {
    "code": "603580",
    "name": "艾艾精工",
    "board": "沪主板",
@@ -2179,6 +2197,15 @@
    "change_type": "直接协议转让",
    "first_announce_date": "2026-09-08",
    "file": "605222.json"
+  },
+  {
+   "code": "605258",
+   "name": "协和电子",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": null,
+   "first_announce_date": "2026-10-24",
+   "file": "605258.json"
   },
   {
    "code": "605488",
