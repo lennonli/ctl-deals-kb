@@ -1,6 +1,6 @@
 {
  "year": "2026",
- "count": 274,
+ "count": 276,
  "deals": [
   {
    "code": "000008",
@@ -532,6 +532,15 @@
    "change_type": "定增认购（取得上市公司发行的新股）",
    "first_announce_date": "2026-10-08",
    "file": "002387.json"
+  },
+  {
+   "code": "002425",
+   "name": "凯撒文化",
+   "board": "深主板",
+   "status": "过户完成",
+   "change_type": "间接收购",
+   "first_announce_date": "2026-10-30",
+   "file": "002425.json"
   },
   {
    "code": "002444",
@@ -1702,6 +1711,15 @@
    "change_type": "定增认购（取得上市公司发行的新股）",
    "first_announce_date": "2026-01-14",
    "file": "600529.json"
+  },
+  {
+   "code": "600621",
+   "name": "华鑫股份",
+   "board": "沪主板",
+   "status": "进行中",
+   "change_type": "直接协议转让",
+   "first_announce_date": "2026-10-28",
+   "file": "600621.json"
   },
   {
    "code": "600714",
